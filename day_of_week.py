@@ -15,5 +15,5 @@ elif day == 5:
 elif day == 6:
     print("Saturday")    
 
-else print("input 0-6!")
+else: print("input 0-6!")
 
