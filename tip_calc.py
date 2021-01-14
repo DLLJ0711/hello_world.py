@@ -2,11 +2,11 @@ billAmount = float(input('Total bill amount? '))
 
 while True:
     service = (input("Level of service(good, fair, bad)? "))
-if service = "good":
+if service == "good":
     tip = .20
-elif service = "fair":
+elif service == "fair":
     tip = .15
-elif service =d "bad":
+elif service == "bad":
     tip = .10
     
 total = billAmount + billAmount * tip
